@@ -1,1 +1,2 @@
 print('Ryan')
+print('Mahasiswa')
